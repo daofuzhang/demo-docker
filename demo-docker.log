@@ -1,0 +1,5 @@
+2020-05-16 07:50:12.765  INFO 15640 --- [main] com.zdf.demo.DemoDockerApplicationTests  : Starting DemoDockerApplicationTests on LAPTOP-IGP3GIFO with PID 15640 (started by daofu in D:\eclipse\workspace\2020\demo-docker)
+2020-05-16 07:50:12.768  INFO 15640 --- [main] com.zdf.demo.DemoDockerApplicationTests  : No active profile set, falling back to default profiles: default
+2020-05-16 07:50:14.076  INFO 15640 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-16 07:50:14.430  INFO 15640 --- [main] com.zdf.demo.DemoDockerApplicationTests  : Started DemoDockerApplicationTests in 2.003 seconds (JVM running for 3.154)
+2020-05-16 07:50:14.755  INFO 15640 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
